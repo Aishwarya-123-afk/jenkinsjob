@@ -1,0 +1,14 @@
+<html>
+<title>demo</title>
+<script>
+function onClick()
+{
+alert("Successful updation ");
+}
+</script>
+<body>
+<input type="text" placeholder>
+<input type=submit>
+
+</body>
+</html>
